@@ -1,5 +1,6 @@
 # Process Document
 
+
 This document captures some of the administrative processes used to manage the AC in accordance with its [working mode](./WORKING_MODE.md).
 
 ## Adding or Removing AC Members
